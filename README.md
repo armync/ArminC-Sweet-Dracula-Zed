@@ -7,7 +7,11 @@
 
 <h4 align="center">Cheerful darkness dusted with starlight contrasts.</h4><br>
 
-<center><img src="https://raw.githubusercontent.com/armync/ArminC-Sweet-Dracula-Zed/main/theme_preview.png" alt="Sweet Dracula Preview" width="75%"></center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/armync/ArminC-Sweet-Dracula-Zed/main/theme_preview.png"
+       alt="Sweet Dracula Preview"
+       width="65%">
+</p>
 
 ### About
 
@@ -16,6 +20,7 @@ The following is a dark theme for Zed Editor that brings in a symbiotic link an 
 ### Color Philosophy
 
 The theme uses a layered approach to backgrounds:
+
 - Base: `#11131c` (main background)
 - Surface: `#161925` (editor, panels)
 - Elevated: `#161925` (dialogs, menus)
