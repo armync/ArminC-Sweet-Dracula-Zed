@@ -1,13 +1,13 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/armync/sweet-dracula-zed/main/sweet_dracula_logo.png" 
+  <img src="https://raw.githubusercontent.com/armync/ArminC-Sweet-Dracula-Zed/main/sweet_dracula_logo.png" 
        alt="Sweet Dracula for Zed Editor" 
        width="35%">
 </h1>
 
 <h4 align="center">Cheerful darkness dusted with starlight contrasts.</h4><br>
 
-![Sweet Dracula Preview](https://raw.githubusercontent.com/armync/sweet-dracula-zed/main/theme_preview.png)
+<img src="https://raw.githubusercontent.com/armync/ArminC-Sweet-Dracula-Zed/main/theme_preview.png" alt="Sweet Dracula Preview" width="75%">
 
 ### About
 
@@ -22,9 +22,9 @@ The theme uses a layered approach to backgrounds:
 
 Syntax colors draw from both worlds:
 
-- **Monokai’s readability** for functions and strings  
-- **Dracula’s vibrancy** for comments and keywords (`#8BE9FD`)  
-- **Purple accents** for types and hints (`#BD93F9`)  
+- **Monokai’s readability** for functions and strings
+- **Dracula’s vibrancy** for comments and keywords (`#8BE9FD`)
+- **Purple accents** for types and hints (`#BD93F9`)
 
 ### Installation
 
