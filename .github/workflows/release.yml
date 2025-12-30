@@ -1,0 +1,24 @@
+name: Publish to zed-industries/extensions at newer iteration
+
+on:
+  workflow_dispatch: # manual run
+  push: # auto run at tag
+    tags:
+      - "v*"
+
+permissions:
+  contents: read # read repo files
+  pull-requests: write # create/update pulls
+
+jobs:
+  publish: # job publish
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        
+      - uses: huacnlee/zed-extension-action@v1
+        with:
+          extension-name: sweet-dracula
+          push-to: tecandrew/zed-extensions
+        env:
+          COMMITER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
