@@ -11,9 +11,7 @@
 
 ### About
 
-This is a dark theme for Zed Editor that brings in a symbiotic link an inspiration from Monokai syntax with a darker Dracula palette.
-
-It has a contrasted background that gives a comfortable canvas that reduces eye strain during coding sessions, alongside vibrant accent colors that enhance the visual pleasure.
+The following is a dark theme for Zed Editor that brings in a symbiotic link an inspiration from Monokai syntax with a darker Dracula palette. It has a contrasted background that gives a comfortable canvas that reduces eye strain during coding sessions, alongside vibrant accent colors that enhance the visual pleasure.
 
 ### Color Philosophy
 
@@ -42,12 +40,12 @@ Check Zed extension marketplace from within the app.
    - **Windows**: `%APPDATA%\Zed\themes\`
 3. Restart the editor
 4. Open the theme selector (`cmd/ctrl + k`, `cmd/ctrl + t`)
-5. Select **Sweet Dracula**
+5. Select **"Sweet Dracula"**
 
 #### Dev Extension Installation
 
 1. Clone or download this repository
-2. In Zed, open the Command Palette (`cmd/ctrl + shift + p` and run **install dev extension**
+2. In Zed, open the Command Palette (`cmd/ctrl + shift + p` and run **"install dev extension"**
 3. Select the main **repository folder**
 4. Reload Zed or restart the editor
 5. Open the theme selector (`cmd/ctrl + k`, `cmd/ctrl + t`)
