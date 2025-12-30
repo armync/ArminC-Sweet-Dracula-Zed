@@ -7,7 +7,7 @@
 
 <h4 align="center">Cheerful darkness dusted with starlight contrasts.</h4><br>
 
-<img src="https://raw.githubusercontent.com/armync/ArminC-Sweet-Dracula-Zed/main/theme_preview.png" alt="Sweet Dracula Preview" width="75%">
+<center><img src="https://raw.githubusercontent.com/armync/ArminC-Sweet-Dracula-Zed/main/theme_preview.png" alt="Sweet Dracula Preview" width="75%"></center>
 
 ### About
 
