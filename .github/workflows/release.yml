@@ -20,6 +20,6 @@ jobs:
       - uses: huacnlee/zed-extension-action@v2
         with:
           extension-name: sweet-dracula
-          push-to: armync/zed-extensions
+          push-to: armync/extensions
         env:
           COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
