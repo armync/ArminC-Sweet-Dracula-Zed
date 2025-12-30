@@ -12,13 +12,14 @@ permissions:
 
 jobs:
   publish: # job publish
+    name: Release Zed Extension
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         
-      - uses: huacnlee/zed-extension-action@v1
+      - uses: huacnlee/zed-extension-action@v2
         with:
           extension-name: sweet-dracula
-          push-to: tecandrew/zed-extensions
+          push-to: armync/zed-extensions
         env:
           COMMITTER_TOKEN: ${{ secrets.COMMITTER_TOKEN }}
